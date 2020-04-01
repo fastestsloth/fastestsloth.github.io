@@ -20,3 +20,4 @@
 (" ~----( ~   Y.  )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 </code></pre>
+![Image of Rabbit](http://www.springfrog.com/converter/ascii-text-art/gallery/bunny.gif)
