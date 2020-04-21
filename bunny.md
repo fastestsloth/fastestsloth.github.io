@@ -21,8 +21,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 </code></pre>
 ![Image of Rabbit](http://www.springfrog.com/converter/ascii-text-art/gallery/bunny.gif)
-<br/>
 
-<a href=http://www.emilyren.com/rabbits>This is the actual rabbit:</a>
+To view a picture of a real rabbit, click [on this!](http://emilyren.com/rabbits)
 
-<a href=http://emilyren.com>Homepage:</a>
+Click here to go back to [the homepage.](http://emilyren.com)
