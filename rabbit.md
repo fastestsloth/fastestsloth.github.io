@@ -1,4 +1,4 @@
-<pre><code>
+~~~
       __            /^\
     .'  \          / :.\   
    /     \         | :: \ 
@@ -21,5 +21,5 @@
    \ .:.\  `':::'`  /.:. /      
     \':: |_       _| ::'/  
      `---` `"""""` `---`
-</code></pre>
+~~~
 ![Image of Rabbit](http://www.springfrog.com/converter/ascii-text-art/gallery/bunny.gif)
