@@ -5,6 +5,6 @@ So cute! <br/>
 
 Rabbits are great, and so are sloths (especially fast ones)!
 
-Click here for the [homepage](http://emilyren.com)
+Click it for the [homepage](http://emilyren.com)
 
-Click here for the [ASCII RABBIT](http://emilyren.com/bunny)
+Click this one for the [ASCII RABBIT](http://emilyren.com/bunny)
