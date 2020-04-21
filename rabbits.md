@@ -6,8 +6,8 @@ RABBITS!
 <br/>
 
 <br/>
-Rabbits are great!
-<a href="emilyren.com">
+Rabbits are great, and so are sloths!
 <br/>
-Find an ASCII rabbit by clicking on this:
-<a href="emilyren.com/rabbit">
+<a href="emilyren.com">Homepage:</a>
+<br/>
+<a href="emilyren.com/bunny">Find an ASCII rabbit by clicking on this:</a>
